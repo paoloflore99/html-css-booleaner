@@ -1,0 +1,34 @@
+body {
+   
+}
+
+#foto-sfondo-logo {
+    background-color: rgb(13, 91, 194);
+    background-repeat: repeat-y;
+}
+
+#foto-logo {
+    width: 140px;
+}
+
+#informazzioni-scrittore {
+    color: rgb(108, 116, 117);
+    font-size: 13px;
+}
+
+#autore {
+    color: rgb(39, 133, 211);
+}
+
+#data-scrittura {
+    font-size: 10px;
+    
+}
+
+#informazzioni-su-tim-bserne {
+    fo
+}
+
+#informazzioni {
+    background-color: yellow;
+}
