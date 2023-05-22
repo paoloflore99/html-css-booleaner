@@ -1,0 +1,70 @@
+body {
+   
+}
+
+#foto-sfondo-logo {
+    background-color: rgb(13, 91, 194);
+    width: 300px;
+    background-size: contain;
+}
+
+#foto-logo {
+    width: 140px;
+    background-position: 10%;
+    position: relative;
+    right: 700px;
+}
+
+.informazzioni-scrittore {
+    color: rgb(108, 116, 117);
+    font-size: 13px;
+}
+
+#autore {
+    color: rgb(39, 133, 211);
+}
+
+#data-scrittura {
+    font-size: 10px;
+    
+}
+
+#informazzioni-su-tim-bserne {
+    fo
+}
+
+.informazzioni {
+    background-color: yellow;
+}
+
+.colore-blu {
+    background-color: rgb(30, 141, 214);
+}
+
+#tabella {
+    background-color: rgb(41, 103, 197);
+}
+
+.foto-finali {
+    display: block;
+    position: relative;
+    top: 10px;
+}
+
+#titolo-dentro-la-foto {
+    position: relative;
+    bottom: 420px;
+    left: 50px;
+    color: aliceblue;
+}
+
+#secondo-titolo-dentro-la-foto {
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    color: aliceblue;
+}
+
+.riga-blu {
+    background-color: rgb(18, 104, 185);
+}
