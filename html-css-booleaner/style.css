@@ -4,8 +4,8 @@ body {
 
 #foto-sfondo-logo {
     background-color: rgb(13, 91, 194);
-    background-repeat: repeat-y;
-
+    width: 300px;
+    background-size: contain;
 }
 
 #foto-logo {
@@ -49,4 +49,22 @@ body {
     display: block;
     position: relative;
     top: 10px;
+}
+
+#titolo-dentro-la-foto {
+    position: relative;
+    bottom: 420px;
+    left: 50px;
+    color: aliceblue;
+}
+
+#secondo-titolo-dentro-la-foto {
+    position: relative;
+    left: 50px;
+    bottom: 220px;
+    color: aliceblue;
+}
+
+.riga-blu {
+    background-color: rgb(18, 104, 185);
 }
