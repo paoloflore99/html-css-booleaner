@@ -32,3 +32,15 @@ body {
 #informazzioni {
     background-color: yellow;
 }
+
+.colore-blu {
+    background-color: rgb(30, 141, 214);
+}
+
+#tabella {
+    background-color: rgb(41, 103, 197);
+}
+
+.foto-finali {
+    display: block;
+}
